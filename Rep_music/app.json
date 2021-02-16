@@ -1,0 +1,16 @@
+"songs" [{
+        "id": 0,
+        "name": "Trellas",
+        "artist ": "Bad Bunny",
+        "song ": ":./Mp3/trellas.mp3",
+        "image": "./Caratulas/trellas.jpeg"
+    },
+    {
+        "id": 1,
+        "name": "Otra Noche En Miami",
+        "artist ": "Bad Bunny",
+        "song ": "./Mp3/otranocheemiami.mp3",
+        "image": "./Caratulas/otranocheenmiami.jpeg"
+    }
+
+]
